@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fakeassbrian/theWeekNum.git"
+    "url": "git+https://github.com/fakeassbrian/ci-test.git"
   },
   "author": "fakeassbrian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fakeassbrian/theWeekNum/issues"
+    "url": "https://github.com/fakeassbrian/ci-testissues"
   },
-  "homepage": "https://github.com/fakeassbrian/theWeekNum#readme",
+  "homepage": "https://github.com/fakeassbrian/ci-test#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   },
