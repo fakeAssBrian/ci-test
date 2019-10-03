@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdougie/theWeekNum.git"
+    "url": "git+https://github.com/fakeassbrian/theWeekNum.git"
   },
-  "author": "bdougie",
+  "author": "fakeassbrian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdougie/theWeekNum/issues"
+    "url": "https://github.com/fakeassbrian/theWeekNum/issues"
   },
-  "homepage": "https://github.com/bdougie/theWeekNum#readme",
+  "homepage": "https://github.com/fakeassbrian/theWeekNum#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   },
